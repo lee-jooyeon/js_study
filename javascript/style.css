@@ -1,0 +1,8 @@
+a:link, a:visited {
+    text-decoration: none;
+    color: #000000;
+}
+
+.hidden {display: none;}
+
+img {width: 100%;}
